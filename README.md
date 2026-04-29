@@ -10,13 +10,13 @@
 
   <p>
     <a href="https://github.com/amareshhebbar/LogPoseSIFT/commits/main">
-      <img src="https://img.shields.io/github/last-commit/gvamaresh/logposesift?style=flat-square&logo=git&color=005571" alt="Last Commit" />
+      <img src="https://img.shields.io/github/last-commit/amareshhebbar/LogPoseSIFT?style=flat-square&logo=git&color=005571" alt="Last Commit" />
     </a>
     <a href="https://github.com/amareshhebbar/LogPoseSIFT">
-      <img src="https://img.shields.io/github/repo-size/gvamaresh/logposesift?style=flat-square&logo=github&color=005571" alt="Repo Size" />
+      <img src="https://img.shields.io/github/repo-size/amareshhebbar/LogPoseSIFT?style=flat-square&logo=github&color=005571" alt="Repo Size" />
     </a>
     <a href="https://github.com/amareshhebbar/LogPoseSIFT/blob/main/LICENSE">
-      <img src="https://img.shields.io/github/license/gvamaresh/logposesift?style=flat-square&logo=open-source-initiative&color=005571" alt="License" />
+      <img src="https://img.shields.io/github/license/amareshhebbar/LogPoseSIFT?style=flat-square&logo=open-source-initiative&color=005571" alt="License" />
     </a>
     <a href="https://github.com/amareshhebbar/LogPoseSIFT">
       <img src="https://img.shields.io/badge/Language-Go-005571?style=flat-square&logo=go" alt="Built with Go" />
