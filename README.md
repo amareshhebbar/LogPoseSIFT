@@ -4,21 +4,21 @@
   <p>
     <strong>Autonomous Multi-Agent DFIR Orchestrator</strong><br />
     Protecting evidence integrity while accelerating incident triage through type-safe Custom MCP Servers.<br /><br />
-    <a href="https://github.com/gvamaresh/logposesift/tree/main/docs">Explore Architecture</a> ·
-    <a href="https://github.com/gvamaresh/logposesift/issues">Report an Issue</a>
+    <a href="https://github.com/amareshhebbar/LogPoseSIFT/tree/main/docs">Explore Architecture</a> ·
+    <a href="https://github.com/amareshhebbar/LogPoseSIFT/issues">Report an Issue</a>
   </p>
 
   <p>
-    <a href="https://github.com/gvamaresh/logposesift/commits/main">
+    <a href="https://github.com/amareshhebbar/LogPoseSIFT/commits/main">
       <img src="https://img.shields.io/github/last-commit/gvamaresh/logposesift?style=flat-square&logo=git&color=005571" alt="Last Commit" />
     </a>
-    <a href="https://github.com/gvamaresh/logposesift">
+    <a href="https://github.com/amareshhebbar/LogPoseSIFT">
       <img src="https://img.shields.io/github/repo-size/gvamaresh/logposesift?style=flat-square&logo=github&color=005571" alt="Repo Size" />
     </a>
-    <a href="https://github.com/gvamaresh/logposesift/blob/main/LICENSE">
+    <a href="https://github.com/amareshhebbar/LogPoseSIFT/blob/main/LICENSE">
       <img src="https://img.shields.io/github/license/gvamaresh/logposesift?style=flat-square&logo=open-source-initiative&color=005571" alt="License" />
     </a>
-    <a href="https://github.com/gvamaresh/logposesift">
+    <a href="https://github.com/amareshhebbar/LogPoseSIFT">
       <img src="https://img.shields.io/badge/Language-Go-005571?style=flat-square&logo=go" alt="Built with Go" />
     </a>
   </p>
@@ -54,7 +54,7 @@ LogPoseSIFT is designed to run natively within the SANS SIFT Workstation environ
 To get started, clone the repository into your SIFT workspace:
 
 ```bash
-git clone [https://github.com/gvamaresh/logposesift.git](https://github.com/gvamaresh/logposesift.git)
+git clone [https://github.com/amareshhebbar/LogPoseSIFT.git](https://github.com/amareshhebbar/LogPoseSIFT.git)
 cd logposesift
 ```
 
