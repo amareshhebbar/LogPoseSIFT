@@ -1,11 +1,30 @@
 
-# LogPoseSIFT
+<div align="center">
+  <h1>LogPoseSIFT</h1>
+  <p>
+    <strong>Autonomous Multi-Agent DFIR Orchestrator</strong><br />
+    Protecting evidence integrity while accelerating incident triage through type-safe Custom MCP Servers.<br /><br />
+    <a href="https://github.com/gvamaresh/logposesift/tree/main/docs">Explore Architecture</a> ·
+    <a href="https://github.com/gvamaresh/logposesift/issues">Report an Issue</a>
+  </p>
 
-An autonomous, multi-agent digital forensics and incident response (DFIR) orchestrator built on the SIFT Workstation.
+  <p>
+    <a href="https://github.com/gvamaresh/logposesift/commits/main">
+      <img src="https://img.shields.io/github/last-commit/gvamaresh/logposesift?style=flat-square&logo=git&color=005571" alt="Last Commit" />
+    </a>
+    <a href="https://github.com/gvamaresh/logposesift">
+      <img src="https://img.shields.io/github/repo-size/gvamaresh/logposesift?style=flat-square&logo=github&color=005571" alt="Repo Size" />
+    </a>
+    <a href="https://github.com/gvamaresh/logposesift/blob/main/LICENSE">
+      <img src="https://img.shields.io/github/license/gvamaresh/logposesift?style=flat-square&logo=open-source-initiative&color=005571" alt="License" />
+    </a>
+    <a href="https://github.com/gvamaresh/logposesift">
+      <img src="https://img.shields.io/badge/Language-Go-005571?style=flat-square&logo=go" alt="Built with Go" />
+    </a>
+  </p>
+</div>
 
-Protecting evidence integrity while accelerating incident triage through type-safe Custom MCP Servers.
-
-[ Explore the docs ] | [ Report a Bug ]
+<br />
 
 ---
 

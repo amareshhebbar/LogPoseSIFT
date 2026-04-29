@@ -1,2 +1,7 @@
 data/*
 logs/*
+.env.env
+logpose-ai
+*.zip
+*.raw
+*.001

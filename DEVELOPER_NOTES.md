@@ -73,3 +73,13 @@ ls ~/LogPoseSIFT
 ```
 
 If `connection_test.txt` is visible in the VM terminal, the bridge is fully active. You can then safely delete the test file.
+
+
+-----
+
+go run cmd/sift-mcp/main.go --mode=ai
+
+to teest api key
+
+go run cmd/sift-mcp/main.go --mode=mcp
+To start executring the server
