@@ -258,3 +258,4 @@ MIT — see [LICENSE](LICENSE)
 ## Built For
 
 [FIND EVIL! Hackathon](https://findevil.devpost.com/) — SANS Institute · April–June 2026
+<!-- docs pass: 2026-07-03T04:33:12Z -->
